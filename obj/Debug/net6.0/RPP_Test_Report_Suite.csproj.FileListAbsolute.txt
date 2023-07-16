@@ -1,0 +1,14 @@
+C:\Repos\SpecialProjects\RPP_Test_Report_Suite\bin\Debug\net6.0\RPP_Test_Report_Suite.deps.json
+C:\Repos\SpecialProjects\RPP_Test_Report_Suite\bin\Debug\net6.0\RPP_Test_Report_Suite.runtimeconfig.json
+C:\Repos\SpecialProjects\RPP_Test_Report_Suite\bin\Debug\net6.0\RPP_Test_Report_Suite.dll
+C:\Repos\SpecialProjects\RPP_Test_Report_Suite\bin\Debug\net6.0\RPP_Test_Report_Suite.pdb
+C:\Repos\SpecialProjects\RPP_Test_Report_Suite\obj\Debug\net6.0\RPP_Test_Report_Suite.csproj.AssemblyReference.cache
+C:\Repos\SpecialProjects\RPP_Test_Report_Suite\obj\Debug\net6.0\RPP_Test_Report_Suite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\SpecialProjects\RPP_Test_Report_Suite\obj\Debug\net6.0\RPP_Test_Report_Suite.AssemblyInfoInputs.cache
+C:\Repos\SpecialProjects\RPP_Test_Report_Suite\obj\Debug\net6.0\RPP_Test_Report_Suite.AssemblyInfo.cs
+C:\Repos\SpecialProjects\RPP_Test_Report_Suite\obj\Debug\net6.0\RPP_Test_Report_Suite.csproj.CoreCompileInputs.cache
+C:\Repos\SpecialProjects\RPP_Test_Report_Suite\obj\Debug\net6.0\RPP_Test_Report_Suite.dll
+C:\Repos\SpecialProjects\RPP_Test_Report_Suite\obj\Debug\net6.0\refint\RPP_Test_Report_Suite.dll
+C:\Repos\SpecialProjects\RPP_Test_Report_Suite\obj\Debug\net6.0\RPP_Test_Report_Suite.pdb
+C:\Repos\SpecialProjects\RPP_Test_Report_Suite\obj\Debug\net6.0\RPP_Test_Report_Suite.genruntimeconfig.cache
+C:\Repos\SpecialProjects\RPP_Test_Report_Suite\obj\Debug\net6.0\ref\RPP_Test_Report_Suite.dll
